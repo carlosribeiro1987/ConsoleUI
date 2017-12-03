@@ -14,6 +14,7 @@ namespace ConsoleUI {
             Console.Write(text);
             Console.ForegroundColor = tmpTextColor;
             Console.BackgroundColor = tmpBackColor;
+
         }
     }
 }
