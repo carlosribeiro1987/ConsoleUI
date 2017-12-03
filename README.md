@@ -11,8 +11,10 @@ Use **ConsoleBox.Draw()** method to surround the text with a box. There are four
 
 4. ```ConsoleBox.Draw(string title, string[] text, int width)``` A titled box in fixed width *(specified in number of characters)*.
 
-##### The usage of the four different boxes are shown in the image below.
+##### The four different boxes are shown in the image below.
 ![BoxSample](https://i.imgur.com/iNrtkkq.png)
 
 
+
+> The codes used in the sample pictures are in [sample_codes](https://github.com/carlosribeiro1987/ConsoleUI/tree/master/sample_codes) directory.
  
